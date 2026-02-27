@@ -1,7 +1,7 @@
 # 🔎 Python-Encryption-Tool
 A simple text encryption and decryption program built in Python using a randomized substitution cipher. The program generates a shuffled character key to securely transform messages and restore them through reverse mapping.
 
-# Features
+## Features
 
 - Encrypt and decrypt text messages
 
@@ -11,7 +11,7 @@ A simple text encryption and decryption program built in Python using a randomiz
 
 - Console-based user interaction
 
-# Concepts Used
+## Concepts Used
 
 - Lists and indexing
 

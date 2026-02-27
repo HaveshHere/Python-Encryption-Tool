@@ -20,3 +20,8 @@ A simple text encryption and decryption program built in Python using a randomiz
 - Randomization
 
 - Basic cryptography concepts
+
+## 🎥 Video
+
+https://github.com/user-attachments/assets/39b0fcd2-04d0-4190-bff1-b2656dd95e54
+

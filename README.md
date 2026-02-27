@@ -11,7 +11,7 @@ A simple text encryption and decryption program built in Python using a randomiz
 
 - Console-based user interaction
 
-## Concepts Used
+## 💭 Concepts Used
 
 - Lists and indexing
 
